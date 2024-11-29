@@ -23,7 +23,7 @@ Then we are good to go just click on `run`
 ## Installation Setup
 
 #### 1. Clone the repository
-You can clone this repository using command: ``git clone https://github.com/JimmyIITR/Project-lab.git``
+You can clone this repository using command: ``git clone https://github.com/Jimmy5467/Enhancing-Text-Communication-with-Real-Time-Emoji-Detection.git``
 #### 2. Run ``python main.py``
 
 
